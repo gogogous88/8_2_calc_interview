@@ -2,6 +2,8 @@
 
 ![Calculator](src/calculator.gif)
 
+Before referencing online resources, first demonstrate the knowledge you possess without Google.
+
 ## Getting Started
 
 ```
