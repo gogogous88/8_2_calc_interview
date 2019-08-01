@@ -1,6 +1,8 @@
 # Calculator : FE Challenge : Total Brain
 
-## Local Dev
+![Calculator](src/calculator.gif)
+
+## Getting Started
 
 ```
 yarn install
@@ -47,7 +49,3 @@ Take a moment to review your code. How can it be better? Refactor your code and 
 2. Ternary operators
 3. Pure functions
 4. Destructuring
-
-
-### What you're building...
-![Calculator](calculator.gif)
