@@ -51,3 +51,4 @@ Take a moment to review your code. How can it be better? Refactor your code and 
 2. Ternary operators
 3. Pure functions
 4. Destructuring
+# 8_2_calc_interview
